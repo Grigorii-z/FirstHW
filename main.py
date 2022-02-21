@@ -1,0 +1,2 @@
+g = "Grigorii"
+print (g)
